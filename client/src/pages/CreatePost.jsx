@@ -90,7 +90,7 @@ if (form.prompt && form.photo) {
         <p className='mt-3 text-[#0070ad] text-[24px] max-w[500px]'>
         Create images using prompts powered by DALL-E AI.</p></div>
 
-        <form className='mt-16 max-w-3xl' onSubmit={handleSubmit}>
+        <form className='mt-14 max-w-3xl' onSubmit={handleSubmit}>
           <div className='flex flex-col gap-5'>
             <FormField LabelName="Your Name" type= "text"
             name= "name"
