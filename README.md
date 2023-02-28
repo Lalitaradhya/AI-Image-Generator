@@ -1,4 +1,4 @@
-# AI-Image-Generator
+# Open-AI App
 DALL-E AI Image Generator
 
 ![create-screen](https://user-images.githubusercontent.com/96745264/219882597-adc9d452-2749-47ed-9e4e-e4eb5759a672.png)
