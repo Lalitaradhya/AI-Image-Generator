@@ -5,7 +5,7 @@ import bodyParser from "body-parser";
 
 const configuration = new Configuration({
     organization: "org-thOPnJQyv0oQwAbI53GHPJCc",
-    apiKey:'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'
+    apiKey:'Your-OPEN_AI_API_KEY'
 });
 const openai = new OpenAIApi(configuration);
 
