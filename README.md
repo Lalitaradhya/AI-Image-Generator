@@ -4,9 +4,6 @@
 ![create](https://user-images.githubusercontent.com/96745264/221776025-56db5b23-d371-4cac-aa32-77287f538866.png)
 MERN-APP
 
-Reference Tutorials 
-https://www.youtube.com/watch?v=EyIvuigqDoA&t=865s
-https://www.youtube.com/watch?v=qwM23_kF4v4&t=3221s
 
 
 
